@@ -4,6 +4,7 @@
 
 trigger:
 - main
+- demobranch
 
 pool:
   vmImage: ubuntu-latest
