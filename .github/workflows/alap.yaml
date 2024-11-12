@@ -1,6 +1,6 @@
 # GitHub Action
 # Egyszerű példa a GitHub Action használatára
-# Beleírtam
+# Beleírtam (hozzáírtam demobranch)
 name: GitHub Action - Alap
 
 # Mikor futtassuk a workflow-t
