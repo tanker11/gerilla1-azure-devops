@@ -37,3 +37,6 @@ jobs:
           ls -l
           echo "##[debug]Helyi mappa"
           pwd
+      - name: Python futtatás
+        run: python python_testfile.py
+        
