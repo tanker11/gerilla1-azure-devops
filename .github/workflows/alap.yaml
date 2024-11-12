@@ -1,6 +1,7 @@
 # GitHub Action
 # Egyszerű példa a GitHub Action használatára
 # Beleírtam (hozzáírtam demobranch)
+# mégegy
 name: GitHub Action - Alap
 
 # Mikor futtassuk a workflow-t
@@ -39,4 +40,4 @@ jobs:
           pwd
       - name: Python futtatás
         run: python python_testfile.py
-        
+
